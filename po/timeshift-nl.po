@@ -2,14 +2,14 @@
 # Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
 
 # This file is distributed under the same license as the timeshift package.
-# Pjotr <pjotrvertaalt@gmail.com>, 2014-2020.
+# Pjotr <pjotrvertaalt@gmail.com>, 2014-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timeshift\n"
 "Report-Msgid-Bugs-To: teejeetech@gmail.com\n"
 "POT-Creation-Date: 2020-11-16 17:44+0530\n"
-"PO-Revision-Date: 2019-08-03 14:49+0000\n"
+"PO-Revision-Date: 2021-01-14 12:49+0000\n"
 "Last-Translator: Pjotr <pjotrvertaalt@gmail.com>\n"
 "Language-Team: Dutch <unknown>\n"
 "Language: nl\n"
@@ -419,9 +419,8 @@ msgid "Commands listed below are not available on this system"
 msgstr "Onderstaande opdrachten zijn op dit systeem niet beschikbaar"
 
 #: Gtk/SnapshotListBox.vala:224
-#, fuzzy
 msgid "Comments (click to edit)"
-msgstr "<b>Opmerkingen</b> (dubbelklik om te bewerken)"
+msgstr "Opmerkingen (dubbelklik om te bewerken)"
 
 #: Gtk/RestoreBox.vala:74 Gtk/RestoreBox.vala:187 Core/Main.vala:2795
 msgid "Comparing Files (Dry Run)..."
@@ -827,9 +826,8 @@ msgid "Examples"
 msgstr "Voorbeelden"
 
 #: Gtk/UsersBox.vala:136
-#, fuzzy
 msgid "Exclude All Files"
-msgstr "Alles uitsluiten"
+msgstr "Alle bestanden uitsluiten"
 
 #: Gtk/RestoreExcludeBox.vala:55 Gtk/ExcludeAppsBox.vala:51
 msgid "Exclude Application Settings"
@@ -1203,14 +1201,12 @@ msgid "Include @home subvolume in backups"
 msgstr "Neem subvolume @home op in reservekopieën"
 
 #: Gtk/UsersBox.vala:266
-#, fuzzy
 msgid "Include All Files"
-msgstr "Alles opnemen"
+msgstr "Alle bestanden opnemen"
 
 #: Gtk/UsersBox.vala:194
-#, fuzzy
 msgid "Include Only Hidden Files"
-msgstr "Verborgen elementen opnemen"
+msgstr "Alleen verborgen bestanden opnemen"
 
 #: Core/Main.vala:2046
 msgid "Invalid Snapshot"
@@ -2739,13 +2735,12 @@ msgstr ""
 "terugzetting ongedaan te maken."
 
 #: Utility/Gtk/DonationWindow.vala:85
-#, fuzzy
 msgid ""
 "You can use the GitHub issue tracker for reporting issues, or post your "
 "questions on the Linux Mint forums. Please avoid reporting issues by email."
 msgstr ""
-"Gebruik het foutmeldingssysteem om fouten te melden, vragen te stellen en om "
-"nieuwe functies aan te vragen. Doe dat dus liever niet via e-mail."
+"U kunt het foutmeldingssysteem van GitHub gebruiken om fouten te melden, "
+"en uw vragen stellen op het forum van Linux Mint. Doe dat niet via e-mail."
 
 #: Gtk/RestoreDeviceBox.vala:413
 msgid ""
